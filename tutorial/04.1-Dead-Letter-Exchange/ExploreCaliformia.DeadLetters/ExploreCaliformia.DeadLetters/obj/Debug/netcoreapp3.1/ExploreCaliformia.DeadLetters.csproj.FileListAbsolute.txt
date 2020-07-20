@@ -1,0 +1,16 @@
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.exe
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.csprojAssemblyReference.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.AssemblyInfoInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.AssemblyInfo.cs
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.deps.json
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.runtimeconfig.json
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.runtimeconfig.dev.json
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.csproj.CopyComplete
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.genruntimeconfig.cache

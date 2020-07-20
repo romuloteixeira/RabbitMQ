@@ -1,0 +1,4 @@
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters.EmitLog\bin\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.EmitLog.exe
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters.EmitLog\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.EmitLog.csprojAssemblyReference.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters.EmitLog\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.EmitLog.AssemblyInfoInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.1-Dead-Letter-Exchange\ExploreCaliformia.DeadLetters\ExploreCaliformia.DeadLetters.EmitLog\obj\Debug\netcoreapp3.1\ExploreCaliformia.DeadLetters.EmitLog.AssemblyInfo.cs

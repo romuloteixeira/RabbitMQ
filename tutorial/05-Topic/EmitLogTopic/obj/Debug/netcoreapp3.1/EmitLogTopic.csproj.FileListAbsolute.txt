@@ -1,0 +1,16 @@
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\EmitLogTopic.exe
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\EmitLogTopic.deps.json
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\EmitLogTopic.runtimeconfig.json
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\EmitLogTopic.runtimeconfig.dev.json
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\EmitLogTopic.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\EmitLogTopic.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.csprojAssemblyReference.cache
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.AssemblyInfoInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.AssemblyInfo.cs
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.csproj.CopyComplete
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\EmitLogTopic\obj\Debug\netcoreapp3.1\EmitLogTopic.genruntimeconfig.cache

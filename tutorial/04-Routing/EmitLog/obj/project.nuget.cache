@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7AGkiGmK8mK2yHSwLHSc4Zy3gaOvhl8+t8vbh4sjB+5EbqER3bwCMLvPeO4PdKWpJkm7KMus1lK0ixOHDpLrZA==",
+  "success": true,
+  "projectFilePath": "C:\\Romulo\\Source\\RabbitMQ\\tutorial\\04-Routing\\EmitLog\\EmitLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KWAN\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

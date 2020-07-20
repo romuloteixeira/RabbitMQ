@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6i9ZwniwEhJTCP+R8iksEFYFSPnufSK/7rrxtLM17r1QkWJ0ltSBvdIiF6p0w+ZTcw8vVPud2eO+qtoGLhACQ==",
+  "success": true,
+  "projectFilePath": "C:\\Romulo\\Source\\RabbitMQ\\tutorial\\05-Topic\\ReceiveLogsTopic\\ReceiveLogsTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KWAN\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

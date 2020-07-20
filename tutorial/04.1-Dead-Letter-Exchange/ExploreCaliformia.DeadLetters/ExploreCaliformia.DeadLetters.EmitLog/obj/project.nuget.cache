@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cU/FmL627l60pNwCQRWVbHUYkqMAM0EVj3QFnYD+obKzbRVUk7+L2iOQLGwPyhYw+SZIiTnIo78l7kox2flBGA==",
+  "success": true,
+  "projectFilePath": "C:\\Romulo\\Source\\RabbitMQ\\tutorial\\04.1-Dead-Letter-Exchange\\ExploreCaliformia.DeadLetters\\ExploreCaliformia.DeadLetters.EmitLog\\ExploreCaliformia.DeadLetters.ConsumerLogs2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KWAN\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.csprojAssemblyReference.cache
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.AssemblyInfo.cs
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.exe
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.deps.json
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.runtimeconfig.json
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.runtimeconfig.dev.json
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.csproj.CopyComplete
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.dll
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\05-Topic\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.genruntimeconfig.cache

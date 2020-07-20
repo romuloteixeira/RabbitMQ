@@ -1,0 +1,16 @@
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\ConsumerDLX.exe
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.csprojAssemblyReference.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.AssemblyInfoInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.AssemblyInfo.cs
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\ConsumerDLX.deps.json
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\ConsumerDLX.runtimeconfig.json
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\ConsumerDLX.runtimeconfig.dev.json
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\ConsumerDLX.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\ConsumerDLX.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.csproj.CopyComplete
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.dll
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.pdb
+C:\Romulo\Source\RabbitMQ\tutorial\04.2-Dead-Letter-Exchange\Dead-Letter-Exchange\ConsumerDLX\obj\Debug\netcoreapp3.1\ConsumerDLX.genruntimeconfig.cache
