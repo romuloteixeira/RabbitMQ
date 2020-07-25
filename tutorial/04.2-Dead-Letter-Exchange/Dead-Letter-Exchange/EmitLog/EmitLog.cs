@@ -1,9 +1,7 @@
 ﻿using RabbitMQ.Client;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading;
 
 namespace EmitLog
 {
@@ -11,7 +9,10 @@ namespace EmitLog
     {
 		static void Main(string[] args)
         {
-            var factory = new ConnectionFactory { HostName = "localhost" };
+            var factory = new ConnectionFactory 
+            {
+                Uri = new Uri("amqp://gkfoltgr:6NIVZuG5hhQtO65_wD5Yvtioy0SK3Wr3@buffalo.rmq.cloudamqp.com/gkfoltgr"), 
+            };
 
             using var connection = factory.CreateConnection();
             using (var channel = connection.CreateModel())

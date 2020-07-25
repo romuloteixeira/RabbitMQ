@@ -1,18 +1,25 @@
-﻿using System;
-using System.Text;
-using RabbitMQ.Client;
+﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
+using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
 namespace ConsumerDLX
 {
+
     class ConsumerDLX
     {
         static void Main(string[] args)
         {
-
-            var factory = new ConnectionFactory { HostName = "localhost" };
+            //var factory = new ConnectionFactory { HostName = "gkfoltgr:6NIVZuG5hhQtO65_wD5Yvtioy0SK3Wr3@buffalo.rmq.cloudamqp.com/gkfoltgr" };
+            var factory = new ConnectionFactory
+            {
+                Uri = new Uri("amqp://gkfoltgr:6NIVZuG5hhQtO65_wD5Yvtioy0SK3Wr3@buffalo.rmq.cloudamqp.com/gkfoltgr"),
+                //HostName = "buffalo.rmq.cloudamqp.com",
+                //Port = 1883,
+                //UserName = "gkfoltgr:gkfoltgr",
+                //Password = "6NIVZuG5hhQtO65_wD5Yvtioy0SK3Wr3"
+            };
 
             using var connection = factory.CreateConnection();
             using (var channel = connection.CreateModel())
@@ -65,11 +72,13 @@ namespace ConsumerDLX
 
                         eventArgs.BasicProperties.Headers.TryGetValue("x-death", out object xDeath);
 
+                        eventArgs.Redelivered = true;
+
                         var xDeath2 = ((List<object>)xDeath)[0];
-                        object count = ((Dictionary<string, object>)xDeath2)["count"];
+                        long count = (long)((Dictionary<string, object>)xDeath2)["count"];
 
                         var xDeath3 = ((List<object>)xDeath);
-                        if (xDeath3.Count > 3)
+                        if (count > 3)
                         {
                             Console.WriteLine("Erro.");
                         }
@@ -91,13 +100,10 @@ namespace ConsumerDLX
 
                         //return base.HandleConsumerError(context, exception);
 
-
-
+                        RequeueMessage(message, eventArgs.BasicProperties.Headers);
 
                         channel.BasicAck(deliveryTag: eventArgs.DeliveryTag,
                                          multiple: false);
-
-                        RequeueMessage(message);
                     }
                     catch (Exception e)
                     {
@@ -118,9 +124,13 @@ namespace ConsumerDLX
             }
         }
 
-        private static void RequeueMessage(string message)
+        private static void RequeueMessage(string message, IDictionary<string, object> headers)
         {
-            var factory = new ConnectionFactory { HostName = "localhost" };
+            //var factory = new ConnectionFactory { HostName = "localhost" };
+            var factory = new ConnectionFactory
+            {
+                Uri = new Uri("amqp://gkfoltgr:6NIVZuG5hhQtO65_wD5Yvtioy0SK3Wr3@buffalo.rmq.cloudamqp.com/gkfoltgr"),
+            };
 
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
@@ -130,6 +140,9 @@ namespace ConsumerDLX
                 {
                     { "x-dead-letter-exchange", ExchangeName }
                 };
+
+
+
                 const string QueueName = "task_queue";
                 channel.QueueDeclare(queue: QueueName,
                                      durable: true,
@@ -137,9 +150,13 @@ namespace ConsumerDLX
                                      autoDelete: false,
                                      arguments: arguments);
 
+                var basicProperties = channel.CreateBasicProperties();
+                basicProperties.Headers = headers;
+
                 var body = Encoding.UTF8.GetBytes(message);
                 channel.BasicPublish(exchange: string.Empty,
                                      routingKey: QueueName,
+                                     basicProperties: basicProperties,
                                      body: body);
 
                 Console.WriteLine($" [x] Sent {message}");
